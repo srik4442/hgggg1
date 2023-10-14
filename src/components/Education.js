@@ -6,7 +6,7 @@ const Education = () => {
     <section>
                 <h2>Education</h2>
             
-                <h3>Narayana School, Bangalore</h3>
+                <h3>Sri Chaitanya School, Vijayawada</h3>
                 <p>10th standard</p>
                 <p>Graduation Year: 2019</p>
             
